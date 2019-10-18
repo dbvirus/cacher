@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "dbvirus-cacher"
-version = "0.1.0"
+name = "cacher"
+version = "0.0.1"
 description = ""
 authors = ["Felipe Rodrigues <felipe@felipevr.com>"]
 
