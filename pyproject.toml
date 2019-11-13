@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "dbvirus-cacher"
-version = "0.0.2"
+version = "0.0.3"
 description = ""
 authors = ["Felipe Rodrigues <felipe@felipevr.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.7"
